@@ -4,6 +4,9 @@ We did looked for good and configurable bruteforce script for DNS records. All o
 
 Tool focues for finding A type records (CNAME's are also be founded).
 
+# Installation: 
+pip install -r requriements.txt 
+
 ```
 DNS Subdomain Bruteforcer.
 
