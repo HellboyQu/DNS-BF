@@ -1,4 +1,4 @@
-# DNS Bruter
+# DNS BF
 
 We did looked for good and configurable bruteforce script for DNS records. All of our founds based on wordlists, some of the tools had true-bruteforce capabilities but they were not configurable in detail.
 
