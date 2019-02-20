@@ -3,7 +3,7 @@
 """DNS Subdomain Bruteforcer.
 
 Usage:
-  dns-bruter.py <domain> [options]
+  dns-bf.py <domain> [options]
 
 Options:
   -h --help                  Show this screen.
